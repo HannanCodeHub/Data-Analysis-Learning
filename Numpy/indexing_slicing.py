@@ -18,4 +18,4 @@ arr1 = np.array([10,20,30,40,50,60,70])
 print(arr1[[0, 2, 4]]) #10 , 30 , 50
 
 #filtering data (boolean):
-print(arr1[arr1 > 25])
+print(arr1[arr1 > 25]) #30,40,50,60,70
