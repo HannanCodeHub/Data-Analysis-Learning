@@ -1,6 +1,6 @@
 # Data Analysis Learning
 
-A learning repository focused on Python-based data analysis and practical data manipulation.
+A learning repository focused on Python-based data analysis and practical data manipulation using Pandas and NumPy.
 
 ## Topics Covered
 
@@ -19,7 +19,15 @@ A learning repository focused on Python-based data analysis and practical data m
 
 ### NumPy
 
-* Coming soon
+* NumPy arrays
+* Array creation and data types
+* Array indexing and slicing
+* Mathematical operations
+* Array functions and calculations
+* Broadcasting
+* Vectorization
+* Handling missing values
+* Practical array manipulation
 
 ## Tools & Libraries
 
@@ -31,3 +39,5 @@ A learning repository focused on Python-based data analysis and practical data m
 ## Purpose
 
 This repository contains my practice and learning work while building data analysis skills with Python.
+
+It documents my progress in learning **NumPy and Pandas**, with practical examples and exercises covering data manipulation, numerical computing, and data analysis fundamentals.
